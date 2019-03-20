@@ -1,0 +1,16 @@
+.classpath
+.pmd
+.project
+.settings
+runtime
+target
+targetdeploy
+test-output
+
+.idea
+*.iml
+**/bin
+
+# Maven release plugin files
+release.properties
+pom.xml.releaseBackup
